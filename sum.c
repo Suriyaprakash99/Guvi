@@ -3,11 +3,12 @@
 #include<string.h>
 int main()
 {
-int a;
+int a,sum=0;
 scanf("%d",&a);
 for(int i=1;i<=a;i++)
 {
-  printf("\nHello");
+  sum=sum+i;
 }
+  printf("%d",sum);
 return 0;
 }

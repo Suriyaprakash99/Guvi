@@ -5,9 +5,9 @@ int main()
 {
 char name;
 scanf("%c",&name);
-if(name=='a'||name=='e'||name=='i'||name=='o'||name=='u'||name=='A'||name=='E'||name=='I'||name=='O'||name=='U')
-printf("Vowel");
+if(name>='a'&&name<='z'||name>='A'&&name<='Z')
+printf("Alphabet");
 else
-printf("Consonant");
+printf("No");
 return 0;
 }

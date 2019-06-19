@@ -1,0 +1,7 @@
+a,b=(input().split())
+a=int(a)
+#print(a)
+b=int(b)
+#print(b)
+c=int(a**b)
+print(c)

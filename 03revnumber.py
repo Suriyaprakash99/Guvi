@@ -1,3 +1,4 @@
 a=input("")
 c=a[::-1]
-print(c)
+b=a
+print(b)

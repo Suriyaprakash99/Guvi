@@ -1,3 +1,3 @@
 a=input("")
-b=a[::-1]
-print(b)
+c=a[::-1]
+print(c)

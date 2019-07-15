@@ -1,3 +1,4 @@
+ze=int(input())
 a=input("")
 a1=list(a.split(" "))
 b=[]

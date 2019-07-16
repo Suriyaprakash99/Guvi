@@ -1,3 +1,4 @@
+dummy=int(input())
 a=input("")
 a=list(a.split(" "))
 f=[]
